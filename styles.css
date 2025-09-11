@@ -14,7 +14,15 @@ color: white;
 
 
 }
-section[
-background: rgb(165,42,42/58%);
+ section{
+background:brown
+padding-bottom 40px;
+padding-top: 40px;
+display: flex;
+justify-content: center;
+}
 
-]
+.chamada-texto{   
+
+    margin-right: 100px;
+}
