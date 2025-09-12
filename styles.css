@@ -2,7 +2,7 @@ body {
 color:white;
 background: pink;
 margin: 0px;
-
+font-family: "Oswald", sans-serif;
 
 }
 
@@ -25,4 +25,12 @@ justify-content: center;
 .chamada-texto{   
 
     margin-right: 100px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
 }
